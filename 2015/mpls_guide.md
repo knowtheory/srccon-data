@@ -1,5 +1,5 @@
 # THE SRCCON 2015 GUIDE TO THE TWIN CITIES
-Courtesy of [Jeff Guntzel](https://twitter.com/jsguntzel) with excellent additions from [MaryJo Webster](https://twitter.com/maryjowebster), [Matt DeLong](https://twitter.com/mattdelong), and [Justin Heideman](https://twitter.com/justinph)
+Courtesy of [Jeff Guntzel](https://twitter.com/jsguntzel) with excellent additions from [MaryJo Webster](https://twitter.com/maryjowebster), [Matt DeLong](https://twitter.com/mattdelong), [Justin Heideman](https://twitter.com/justinph), Andrew Stevenson, [CJ Sinner](https://twitter.com/cjsinner), and [Will Lager](https://twitter.com/iniwil)
 
 # How to get around
 There are two train lines in the Twin Cities. One runs through Minneapolis and the other runs from Minneapolis to St. Paul. Mercifully, they are connected. The MetroTransit trip planner (<a href='https://www.metrotransit.org/imap/map.aspx'>https://www.metrotransit.org/imap/map.aspx</a>) is a reliable way to determine if your destination is near a train stop. Many of the places listed here are.
@@ -16,6 +16,37 @@ There is also a bike sharing system called [Nice Ride](https://www.niceridemn.or
 604 Washington Ave SE<br />
 
 I know, I know--it's Bánh Mì. See what they did there? You know what else they do? Delicious.
+
+##### Caspian Bistro 
+[http://www.viewmenu.com/caspian-bistro-and-marketplace/menu](http://www.viewmenu.com/caspian-bistro-and-marketplace/menu)
+0.3 miles<br />
+2418 University Ave SE 
+
+Persian market and Middle Eastern cafe. Has great service, is delicious.
+
+##### Punch Neapolitan Pizza
+<a href='http://www.punchpizza.com'>http://www.punchpizza.com</a><br />
+0.1 mile (visible from McNamara)<br />
+802 Washington Ave SE<br />
+or<br />
+2.1 miles<br />
+210 East Hennepin Avenue
+
+Fabulous pizzas cooked in a wood-burning oven at 800 degrees for about 90 seconds.
+
+##### The Village Wok 
+[http://www.villagewok.com](http://www.villagewok.com)<br />
+0.2 miles <br />
+610 Washington Ave SE 
+
+A U of M institution serving Chinese food in "Cantonese, Shanghainese, Sichuan, Hunan, and Peking styles."
+
+##### Day Block Brewing Company
+[https://www.dayblockbrewing.com](https://www.dayblockbrewing.com)<br />
+0.3 miles<br />
+1105 Washington Ave SE
+
+Reasonable beer and food—also, on occasion, live music.
 
 ##### Haiku Japanese Bistro
 <a href='http://www.haikujapanese.com'>http://www.haikujapanese.com</a><br />
@@ -96,13 +127,6 @@ This is a 10-15 minute walk from the Raymond Avenue stop (3 stops east of Stadiu
  
 A woman-owned and operated craft brewery that makes damn good beer and features a small but strong food menu. Two taprooms and a nice patio.
 
-##### Punch Neapolitan Pizza
-<a href='http://www.punchpizza.com'>http://www.punchpizza.com</a><br />
-2.1 miles<br />
-210 East Hennepin Avenue<br />
-
-Fabulous pizzas cooked in a wood-burning oven at 800 degrees for about 90 seconds.
-
 ##### Izzy's Ice Cream
 <a href='http://izzysicecream.com/locations/minneapolis/'>http://izzysicecream.com/locations/minneapolis/</a><br />
 2.1 miles<br />
@@ -173,12 +197,37 @@ The chutney sampler--oh my. And anything with lamb in it.
 
 If you like your coffee snobs humble, this is your place. This is fussy coffee at its fussiest, and it is a beautiful thing.
 
+##### Heyday
+[http://heydayeats.com/](http://heydayeats.com/)
+5 miles
+2700 Lyndale Avenue S
+
+Dinner or Saturday/Sunday brunch, try to make a reservation just in case.
+ 
+##### Bryant Lake Bowl & Theater
+http://www.bryantlakebowl.com/<br />
+5.25 miles<br />
+810 West Lake St.
+ 
+At the heart of the walkable LynLake area—food, drink, bowling, and shows
+ 
+##### Lucia’s
+[http://www.lucias.com/](http://www.lucias.com/)<br />
+5.5 miles<br />
+1432 W 31st St.
+
 ##### Sea Salt (Seafood)
 <a href='https://seasalteatery.wordpress.com'>https://seasalteatery.wordpress.com</a><br />
 6.4 miles<br />
 4825 Minnehaha Avenue<br />
 
 Let's be honest--this is Minnesota, so we are also talking *lake* food. But you know what? Lake food is delicious and you'll be eating it at an outdoor table within earshot (and from some tables within eyeshot) of Minnehaha Falls. And the whole thing is just a short walk from a lightrail stop.
+
+##### Ha Tien Market
+7.4 miles<br />
+353 University Avenue West, St. Paul 
+
+Just off the Western Ave station on the Green line. This has the best banh mi, the other one is good but this is better, and it’s a full Vietnamese grocery as well.
 
 ## Beautiful places
 
@@ -287,6 +336,11 @@ Like the bookstores, these record stores are vetted! Three things worth noting: 
 1.8 miles<br />
 783 Raymond Avenue
 
+##### Agharta Records 
+[https://www.facebook.com/aghartarecords](https://www.facebook.com/aghartarecords)<br />
+2.3 miles<br />
+2512 University Avenue
+
 ##### Hymie's Vintage Records
 <a href='http://hymiesrecords.com'>http://hymiesrecords.com</a><br />
 2.7 miles<br />
@@ -325,7 +379,7 @@ You can find the multiplexes easy enough. These are the special theaters. Oh, an
 4.1 miles<br />
 3800 42nd Avenue South
 
-## Museums!
+## Museums and Art!
 
 ##### Weisman Art Museum
 <a href='http://www.weisman.umn.edu'>http://www.weisman.umn.edu</a><br />
@@ -354,6 +408,22 @@ You can find the multiplexes easy enough. These are the special theaters. Oh, an
 
 Does a really great job of telling some of the key history of Minnesota—the flour industry. Plus you can get a great view of the city, St. Anthony Falls ,and the Mississippi River from the top of the museum. Also great for children!
 
+##### Intermedia Arts
+[http://intermediaarts.org/](http://intermediaarts.org/)<br />
+5 miles<br />
+2822 Lyndale Avenue S
+
+ 
+##### Soo Visual Art Center
+[http://www.soovac.org/](http://www.soovac.org/)<br />
+5.2 miles<br />
+2909 Bryant Avenue S Suite 101
+
+ 
+##### Highpoint Center for Printmaking
+[http://highpointprintmaking.org/](http://highpointprintmaking.org/)<br />
+5.4 miles<br />
+912 W Lake St 
 
 ## Live Music!
 
