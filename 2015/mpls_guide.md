@@ -1,12 +1,28 @@
 # THE SRCCON 2015 GUIDE TO THE TWIN CITIES
 Courtesy of [Jeff Guntzel](https://twitter.com/jsguntzel) with excellent additions from [MaryJo Webster](https://twitter.com/maryjowebster), [Matt DeLong](https://twitter.com/mattdelong), [Justin Heideman](https://twitter.com/justinph), Andrew Stevenson, [CJ Sinner](https://twitter.com/cjsinner), and [Will Lager](https://twitter.com/iniwil)
 
-# How to get around
+#### What's In the Guide
+* [How to Get Around](#getaround)
+* [Delicious Places: Food on Campus](#food)
+* [Delicious Places: Food Further Out](#foodaway)
+* [Beautiful Places](#sights)
+* [Books!](#books)
+* [Records!](#records)
+* [Museums and Art!](#art)
+* [Live Music!](#music)
+* [Festivals and Events!](#festivals)
+* [Fun for Kids!](#kids)
+* [Day Trips!](#trips)
+* [Just Because…](#because)
+* [More Lists!](#lists)
+
+<a name="getaround"></a>
+# How to Get Around
 There are two train lines in the Twin Cities. One runs through Minneapolis and the other runs from Minneapolis to St. Paul. Mercifully, they are connected. The MetroTransit trip planner (<a href='https://www.metrotransit.org/imap/map.aspx'>https://www.metrotransit.org/imap/map.aspx</a>) is a reliable way to determine if your destination is near a train stop. Many of the places listed here are.
 
 There is also a bike sharing system called [Nice Ride](https://www.niceridemn.org/) that has over 100 stations throughout the core cities of Minneapolis and St. Paul. Stations are usually pretty close to many of the attractions listed below, including right behind the McNamara Center. Passes are $6 for 24 hours or $15 for a month, you get bikes for 60 minutes at a time before additional fees accrue.
 
-# Places
+# Places<a name="food"></a>
 ## Delicious places
 ### In the neighborhood
 
@@ -87,7 +103,7 @@ You love Cantonese food and you just need somebody to point you to the good stuf
 520 Malcolm Avenue Southeast<br />
 
 Surly makes really good beer right here in Minnesota. Really good.
-
+<a name="foodaway"></a>
 ### Beyond the campus
 
 ##### Foxy Falafel
@@ -229,6 +245,7 @@ Let's be honest--this is Minnesota, so we are also talking *lake* food. But you 
 
 Just off the Western Ave station on the Green line. This has the best banh mi, the other one is good but this is better, and it’s a full Vietnamese grocery as well.
 
+<a name="sights"></a>
 ## Beautiful places
 
 ##### Guthrie Theater
@@ -279,7 +296,7 @@ A river boat ride on the Mississippi between Minneapolis and St. Paul.
 
 You can rent bikes, pedal boats, kayaks, canoes, and paddleboards for lake-splashing enjoyment.
 
-
+<a name="books"></a>
 ## Books!
 These bookstores are vetted. There are plenty more that could (and maybe should) be on the list, but you can't go wrong with any of these (unless, of course, if you hate science fiction and decide to truck it out to Uncle Hugo's). Two things worth noting: Common Good Books is Garrison Keilor's bookstore (Wait! Come back!) and Wild Rumpus is a bookstore for kids that has LIVE ANIMALS running around. And we're not just talking about  bookstore cats. There are chickens!
 
@@ -328,6 +345,7 @@ These bookstores are vetted. There are plenty more that could (and maybe should)
 7.6 miles<br />
 2720 West 43rd Street
 
+<a name="records"></a>
 ## Records!
 Like the bookstores, these record stores are vetted! Three things worth noting: Fifth Element is the record store of the Minneapolis Hip Hop collective Rhymesayers (Atmosphere, Brother Ali, P.O.S.), Electric Fetus is a super gross name and a really great store, and Treehouse used to be called Oar Folkjokeopus and was sort of the uniffial HQ of Twin/Tone records, early home to Minneapolis bands like The Replacements, Babes in Toyland, Soul Asylum, and The Jayhawks. It's also where the guys from Husker Du met. 
 
@@ -379,6 +397,7 @@ You can find the multiplexes easy enough. These are the special theaters. Oh, an
 4.1 miles<br />
 3800 42nd Avenue South
 
+<a name="art"></a>
 ## Museums and Art!
 
 ##### Weisman Art Museum
@@ -425,6 +444,7 @@ Does a really great job of telling some of the key history of Minnesota—the fl
 5.4 miles<br />
 912 W Lake St 
 
+<a name="music"></a>
 ## Live Music!
 
 ##### Cedar Cultural Center
@@ -463,6 +483,7 @@ Does a really great job of telling some of the key history of Minnesota—the fl
 4.3 miles<br />
 2528 Nicollet Avenue South
 
+<a name="festivals"></a>
 ## Festivals and Events
 
 ##### Twin Cities Jazz Festival
@@ -471,7 +492,8 @@ Does a really great job of telling some of the key history of Minnesota—the fl
 ##### Twin Cities Pride Festival and Parade
 [https://www.tcpride.org/](https://www.tcpride.org/)
 
-## Fun for Kids
+<a name="kids"></a>
+## Fun for Kids!
 
 ##### Minnesota Children’s Museum
 [http://www.mcm.org/](http://www.mcm.org/)<br />
@@ -506,15 +528,8 @@ Small, but really nice, zoo;  a conservatory; a really cool historical carousel 
 20 miles<br />
 5287 Otter Lake Rd, White Bear Township
 
-
-## More Lists
-
-##### City Pages, “Best of…” lists for 2015
-[http://www.citypages.com/best-of](http://www.citypages.com/best-of)
-
-This covers a lot of other ground, especially in food and entertainment.
-
-## Just because...
+<a name="because"></a>
+## Just Because...
 
 ##### Ax-Man Surplus Store
 <a href='http://www.ax-man.com'>http://www.ax-man.com</a><br />
@@ -537,7 +552,8 @@ Just trust...
 
 Exactly what it says. And no windmills allowed. (For weather-related and course closure information, call 612.375.7697.)
 
-## Day trips
+<a name="trips"></a>
+## Day Trips
 
 ##### Franconia Sculpture Park
 <a href='http://www.franconia.org'>http://www.franconia.org</a><br />
@@ -551,8 +567,15 @@ There is a house suspended from wires, a sculpture made of boom boxes that reach
 
 It's a 2.5 hour drive, but it's a great little city on a really big lake. If you are a Dylan person, he was born in Duluth and lived there at 519 N. 3rd Ave. E. until he was six. Or maybe you are a Prince person...
 
-
 ##### Purple Rain locations, because Prince
 <a href='http://www.mapquest.com/travel/articles/prince-purple-rain-30th-anniversary-minneapolis-tour-20884977'>http://www.mapquest.com/travel/articles/prince-purple-rain-30th-anniversary-minneapolis-tour-20884977</a>
 
 Have you watched that movie lately? If so, you've probably already clicked that link.
+
+<a name="lists"></a>
+## More Lists
+
+##### City Pages, “Best of…” lists for 2015
+[http://www.citypages.com/best-of](http://www.citypages.com/best-of)
+
+This covers a lot of other ground, especially in food and entertainment.
