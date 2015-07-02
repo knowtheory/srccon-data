@@ -61,7 +61,7 @@ Room: Minnesota
 
 >> No, WordPress was... We were using WordPress... My API plug-in for the WordPress to serve it because I didn't have time to actually build out an API service. But I had come from the Post, worked on WordPress, we had built that around the other system, because we had a monolithic system, and we just started building small stuff and finding a way to connect them in the middle.
 
->> You're referring to Mythode?
+>> You're referring to Méthode?
 
 >> Can you talk a little bit more about that? I think in a lot of our organizations, perhaps not the digital (inaudible), but it's a monolithic culture we're fighting against and not as much a particular monolithic system, though indeed that's part of the landscape. But at Thunderdome, it was trying to lobby IT to give us servers, which was a huge pain in the ass and took our data team months. It was having to use Newscred at our CMS because we didn't have an Agile enough product team to deliver verticals we needed on business deadlines. And that's the reality for a lot of metro newspapers.
 
